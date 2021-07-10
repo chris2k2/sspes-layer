@@ -1,0 +1,21 @@
+# serverless.yml
+
+service: sspes-layer
+
+provider:
+  name: aws
+  runtime: java11
+  stage: dev
+  region: eu-north-1
+
+# you can add packaging information here
+package:
+  individually: true
+  include:
+    - "**"
+
+layers:
+  layerOne:
+    path: ./target/deploy
+    description: optional description for your layer
+    name: layerOne
