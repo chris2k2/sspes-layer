@@ -15,7 +15,9 @@ package:
     - "**"
 
 layers:
-  layerOne:
+  apiLayer:
     path: ./target/deploy
-    description: optional description for your layer
-    name: layerOne
+    description: the original SSPES API as Layer
+    name: sspesApiLayer
+
+
