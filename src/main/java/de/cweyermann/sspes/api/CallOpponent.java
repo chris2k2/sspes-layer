@@ -38,10 +38,6 @@ public class CallOpponent {
         }
     }
 
-    public String getChoiceOf(Participant team, Participant me) {
-        return getChoiceOf(team, buildHint(me));
-    }
-
     public String buildHint(Participant opponent) {
         String lastChoice = encode(opponent.getLastChoice());
         String name = encode(opponent.getName());
