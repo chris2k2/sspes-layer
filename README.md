@@ -1,4 +1,4 @@
-![Banner](imgs/banner.PNG)
+![Banner](banner.PNG)
 
 Dies ist der Lambda Layer Code für "THE ULTIMATE SCHERE-STEIN-PAPIER-ECHSE-SPOCK SHOWDOWN". Der Code wird vom "Serverless AWS Lambda und Alexa"-Workshop verwendet. 
 Er dient als Beispiel für einen Lambda Layer.
