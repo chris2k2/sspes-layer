@@ -9,7 +9,7 @@ Entgegen üblicher Best-Practice ist in diesem Codeteil der Lambda Layer und die
 
 # Layer
 
-Der Layer kann mittels `mvn install && serverless deploy` einfach in AWS deployt werden. Der 
+Der Layer kann mittels `mvn install && serverless deploy` einfach in AWS deployt werden. 
 
 # SSPES API
 
