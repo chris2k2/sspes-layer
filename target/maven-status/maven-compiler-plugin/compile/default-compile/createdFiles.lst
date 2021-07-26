@@ -1,9 +1,0 @@
-de\cweyermann\sspes\api\MatchResult$MatchResultBuilder.class
-de\cweyermann\sspes\api\repo\Participant.class
-de\cweyermann\sspes\api\repo\Repository.class
-de\cweyermann\sspes\api\repo\DynamoDb.class
-de\cweyermann\sspes\api\SayHello.class
-de\cweyermann\sspes\api\MatchResult$Result.class
-de\cweyermann\sspes\api\CallOpponent.class
-de\cweyermann\sspes\api\SspesAPI.class
-de\cweyermann\sspes\api\MatchResult.class
